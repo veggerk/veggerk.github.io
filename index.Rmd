@@ -14,7 +14,7 @@ output:
 ## Bio
 
 
-Karl Veggerby studies freshwater and marine foodwebs. His research focuses primarily stable isotopes to study predator prey dynamics and fish otoliths to study past growth rate of fish. He frequently collaborates with colleagues at NOAA and Univeristy of Washington School of Aquatic and Fishery Sciences. His work has been featured in the "Engineering with Nature" documentary and KGW8 Portland Bews.
+Karl Veggerby studies freshwater and marine foodwebs. His research focuses primarily stable isotopes to study predator prey dynamics and fish otoliths to study past growth rate of fish. He frequently collaborates with colleagues at NOAA and Univeristy of Washington School of Aquatic and Fishery Sciences. His work has been featured in the "Engineering with Nature" documentary and KGW8 Portland Bews. the
 
 
 [Engineering with Nature](https://leapingfrogfilms.com/thorton.html)
