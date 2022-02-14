@@ -1,0 +1,38 @@
+---
+title: "Karl Veggerby"
+image: "karl.png"
+links:
+
+  - label: GitHub
+    url: "https://github.com/veggerk"
+  - label: Email
+    url: "mailto:veggerk@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+
+
+His work has been featured in the "Engineering with Nature" documentary and NBC Portland.
+
+## Education
+
+**Western Washington University** | Bellingham, WA
+
+B.S. in Environmental Science | September 2010 - December 2014
+
+**The University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fishery Science | May 2021 - Present
+
+## Experience
+
+**Northwest Fisheries Science Center** | contract fisheries biologist | July 2015 - April 2021
+
+**The University of Washington** | research assistantship, student | May 2021 - Present
