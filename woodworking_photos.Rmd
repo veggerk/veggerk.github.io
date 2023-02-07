@@ -1,5 +1,5 @@
 ---
-title: "select woodworking project photos"
+title: "select woodworking projects"
 output:
   html_document:
     toc: true
@@ -10,18 +10,32 @@ output:
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_5498.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_2236.jpg", error = FALSE)
+
 knitr::include_graphics("images/IMG_2420.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_2428.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_3201.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_3211.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_3216.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_3797.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_4051.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_4052.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_4540.JPG", error = FALSE)
+
 knitr::include_graphics("images/IMG_9251.jpeg", error = FALSE)
+
 knitr::include_graphics("images/IMG_20200829_172837.jpg", error = FALSE)
+
 knitr::include_graphics("images/PXL_20201109_000913048.jpg", error = FALSE)
+
 knitr::include_graphics("images/IMG_6587.PNG", error = FALSE)
 ```

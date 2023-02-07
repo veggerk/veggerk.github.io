@@ -14,10 +14,9 @@ output:
   postcards::trestles
 ---
  
-# Bio
+# ------------------ BIOGRAPHY ------------------
 
-
-Karl Veggerby studies freshwater and marine foodwebs. His research focuses primarily on two topics: stable isotopes to study predator-prey dynamics, and otoliths to study past growth rates of fish. He frequently collaborates with colleagues at NOAA and University of Washington School of Aquatic and Fishery Sciences. His work has been featured in the "Engineering with Nature" documentary and KGW8 Portland News.
+I study freshwater and marine habitats. My research focuses primarily on two topics: stable isotopes to study predator-prey dynamics, and otoliths to study past growth rates of fish. I frequently collaborate with colleagues at NOAA and University of Washington School of Aquatic and Fishery Sciences on a diverse array of topics and projects ranging from high altitude spawning streams in Idaho, to oyster farms in the Puget Sound, WA. My work has been featured in the "Engineering with Nature" documentary and KGW8 Portland News.
 
 [Applied Ecology Lab](https://depts.washington.edu/appliedecology/)
 
@@ -25,85 +24,72 @@ Karl Veggerby studies freshwater and marine foodwebs. His research focuses prima
 
 [KGW8 Portland News](https://www.kgw.com/article/tech/science/environment/scientists-studying-effect-of-hatchery-raised-salmon-on-wild-salmon/283-dbd813f4-af2c-4d3f-abe1-a050ad0e905e)
 
-[photo album of select woodworking projects](woodworking_photos.html)
 
 
-# Education
 
-**The University of Washington | Seattle, WA**
+# ------------------ EDUCATION ------------------
+
+##### The University of Washington | Seattle, WA
 
   * M.S. in Aquatic and Fishery Science (in progress) | May 2021 - Present
 
-**Western Washington University | Bellingham, WA**
+##### Western Washington University | Bellingham, WA
 
- * B.S. in Environmental Science | September 2010 - December 2014
+  * B.S. in Environmental Science | September 2010 - December 2014
 
 
 
-# Experience
+# ----------------- EXPERIENCE -----------------
 
-**The University of Washington** | Master's student | May 2021 - Present
+##### The University of Washington | Master's student | May 2021 - Present
 
   *	Stable isotope mixing model analysis in R
   
-  *	statistical analysis in R
+  *	General statistical analysis in R
   
-  *	Manuscript and grant writing
+  *	Manuscript writing, grant writing, and editing
   
   *	Co-author on 7 in-prep or in-review papers (first author on 3)
 
 
-**Northwest Fisheries Science Center** | contract fisheries biologist | July 2015 - April 2021
 
-  *	coordination and leading of field work crews
+##### NOAA Northwest Fisheries Science Center | contract Fisheries Biologist | July 2015 - April 2021
+
+  *	Coordinated and lead field work crews
   
-  * Nearshore habitat surveys in Puget sound examining fish, eelgrass, and invertebrates
+  * Nearshore habitat surveys in Puget sound to quantify fish, eelgrass, and invertebrates
   
   *	Gill-net and beach seine survey experience
   
-  *	co-author on 3 published papers (second author on 2)
+  *	Co-author on 3 published papers (second author on 2)
   
-  *	otolith microstructure extraction/processing/analysis
+  *	Otolith microstructure extraction/processing/analysis
   
-  *	stable isotope collection/processing/analysis 
+  *	Stable isotope collection/processing/analysis 
   
-  *	Help run a mass spectrometer at the NWFSC
-  
-  *	Help design and implement sample analysis and quality control/quality assurance procedures for the     new mass spectrometer at the NWFSC
+  *	Mass spectrometer use and maintenance at the NWFSC
   
   *	eDNA sample collection
   
   *	PCR lab techniques, microbial and invertebrate DNA extraction and processing
 
-
-**Northwest Fisheries Science Center** | Volunteer Bio-technician | Summer 2013 and 2014
-
-  *	snorkel surveys
+  *	Snorkel surveys
   
-  *	electroshocking
+  *	Electroshocking
   
-  *	stable isotope sample collection
-  
-  *	stable isotope sample preparation
-  
-  *	aquatic insect taxonomy
 
 
-### SPECIFIC LEADERSHIP EXPERIENCE, TEACHING EXPERIENCE, AND UNIQUE SKILLS
+# --- LIFE EXPERIENCE SPOTLIGHTS ---
 
-  *	organized and led 9 separate field teams in Salmon River basin, Idaho for summer field work
+  *	Organized and led 9 separate field teams to do stream surveys in remote wilderness areas of the         Salmon River Basin, Idaho. I taught field crews the basics of field work and a variety of stream
+   sampling techniques.
   
-  *	In charge of keeping field crews safe while working in wilderness areas
+  *	I designed and produced a unique eDNA water sampler to solve sampling needs for an project in Lake       Washington. The product was later licensed to a science equipment company. 
   
-  *	Teaching field crews a variety of sampling techniques every year during field season
+  *	I co-founded a successful property management company in Seattle, WA, giving me experience with          business accounting, managing a budget, and organizing and executing complex projects.
   
-  *	Teach interns and other researchers stable isotope processing and analysis procedures
+  *	I have a black belt in Kempo Karate, and previously taught martial arts and self defense for several     years.
   
-  *	Design and production of a unique eDNA water sampler to solve sampling needs for a project
-  
-  *	Owns and operates a successful property management company in Seattle, WA
-  
-  *	Earned a black belt in Kempo Karate and taught martial arts and self defense for several years
-  
-  *	Third generation woodworker/carpenter; makes and sells custom fine furniture with family (see above     link for photos of some select projects I've done) 
+  *	I learned woodworking from my father and I enjoy making custom fine furniture. See my 
+   [photo album of select woodworking projects](woodworking_photos.html)
 
