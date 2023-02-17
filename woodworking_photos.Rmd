@@ -11,74 +11,82 @@ output:
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_5498.JPG", error = FALSE)
 ```
-
+A cherry dining room table to seat 4-6 people. This was designed by my friend's mom speifically for her dining room.
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_2236.jpg", error = FALSE)
 ```
-
+A mahogany end table with some quilted bigleaf maple veneered onto the front and top. The mahogany was salvaged from an old church pew that was being thrown away.
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_2420.JPG", error = FALSE)
 ```
+A pair of black walnut crotchwood end tables, with big leaf maple base.
 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_2428.JPG", error = FALSE)
 ```
-
+Another shot of the pair of black walnut crotchwood end tables, with big leaf maple base.
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_3201.JPG", error = FALSE)
 ```
-
+A slab cherry coffee table. This slab came from a very old tree that died and fell. There was a lot of rot and other damage that had to be accounted for. The butterfly joints in the surface are to prevent cracks from spreading. 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_3211.JPG", error = FALSE)
 ```
-
+A 10 person cherry dining table with removable leaves on each end. 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_3216.JPG", error = FALSE)
 ```
-
+Another shot of the cherry dining table. 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_3797.JPG", error = FALSE)
 ```
-
+A coffee table using fumed white oak. This is a traditional process of darkening white oak wood using ammonia. This process oxidizes the heartwood, which darkens it and creates more of an 'antique' look. It also is a very even stain that penetrates deeper than a modern brushed on stain. 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_4051.JPG", error = FALSE)
 ```
+A live edge queen bedframe using figured bigleaf maple wood. 
 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_4052.JPG", error = FALSE)
 ```
+Another photo of the live edge queen bedframe using figured bigleaf maple wood. 
 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_4540.JPG", error = FALSE)
 ```
+A live edge queen bedframe using elm wood. 
 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_9251.jpeg", error = FALSE)
 ```
-
+Another photo of the live edge queen bedframe using elm wood. 
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_20200829_172837.jpg", error = FALSE)
 ```
-
+A few framed prints using golden chain tree wood. This is a really unusual species of small ornamental tree that produces incredible hard and beautiful wood.
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/PXL_20201109_000913048.jpg", error = FALSE)
 ```
-
+A small endtable made with figured big leaf maple, and mortise and tenon joints.
 
 ```{r, out.width = "100%", echo = FALSE}
 knitr::include_graphics("images/IMG_6587.PNG", error = FALSE)
 ```
+In this photo I'm using a traditional hand plane to smooth the surface of a board. before the advent of sandpaper, people used a variety of planes to help smooth a wood surface. Finishing furniture like this is more fun than using sandpaper, and can even be faster depending on what type of wood you're using.
+
+
+
 
