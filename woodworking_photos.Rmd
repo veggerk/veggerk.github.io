@@ -89,4 +89,27 @@ In this photo I'm using a traditional hand plane to smooth the surface of a boar
 
 
 
+We mill most of our own wood from trees that have fallen or are already being taken out. Here are two photos of us milling the elm tree that was used for the elm bed frame. 
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/milling elm2.jpg", error = FALSE)
+```
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/milling elm.jpg", error = FALSE)
+```
+
+Here is a few photos of the maple tree being milled that was used for the maple bed frame. 
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/milling maple.jpg", error = FALSE)
+```
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/milling maple2.jpg", error = FALSE)
+```
+
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/milling maple3.jpg", error = FALSE)
+```
 
