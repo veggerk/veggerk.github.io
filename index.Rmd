@@ -7,8 +7,8 @@ links:
     url: "https://github.com/veggerk"
   - label: Email
     url: "mailto:veggerk@uw.edu"
-  - label: ORCHiD ID
-    url: "https://orcid.org/0000-0002-5755-7382" 
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=_PwmxVUAAAAJ&hl=en" 
    
 output:
   postcards::trestles
