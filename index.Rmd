@@ -7,8 +7,8 @@ links:
     url: "https://github.com/veggerk"
   - label: Email
     url: "mailto:veggerk@uw.edu"
-  - label: ORCHiD ID
-    url: "https://orcid.org/0000-0002-5755-7382" 
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=_PwmxVUAAAAJ&hl=en" 
    
 output:
   postcards::trestles
@@ -63,7 +63,7 @@ I study freshwater and marine habitats. My research focuses primarily on two top
   
   *	Gill-net and beach seine survey experience
   
-  *	Co-author on 3 published papers (second author on 2)
+  *	Co-author on 4 published papers (second author on 2)
   
   *	Otolith microstructure extraction/processing/analysis
   
