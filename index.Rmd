@@ -16,9 +16,11 @@ output:
  
 # ------------------ BIOGRAPHY ------------------
 
-I study freshwater and marine habitats. My research focuses primarily on two topics: stable isotopes to study predator-prey dynamics, and otoliths to study past growth rates of fish. I frequently collaborate with colleagues at NOAA and University of Washington School of Aquatic and Fishery Sciences on a diverse array of topics and projects ranging from high altitude spawning streams in Idaho, to oyster farms in the Puget Sound, WA. My work has been featured in the "Engineering with Nature" documentary and KGW8 Portland News.
+I study freshwater and marine habitats. My research focuses primarily on two topics: stable isotopes to study predator-prey dynamics, and otoliths to study past growth rates of fish. I frequently collaborate with colleagues at NOAA and University of Washington School of Aquatic and Fishery Sciences on a diverse array of topics and projects ranging from high altitude spawning streams in Idaho, to oyster farms in the Puget Sound, WA. My work has been featured in the "Engineering with Nature" documentary, NOAA featured stories, and KGW8 Portland News.
 
 [Applied Ecology Lab](https://depts.washington.edu/appliedecology/)
+
+[NOAA feature story](https://www.fisheries.noaa.gov/feature-story/underwater-cameras-capture-value-shellfish-habitat)
 
 [Engineering with Nature](https://leapingfrogfilms.com/thorton.html)
 
