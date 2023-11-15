@@ -30,10 +30,10 @@ I study freshwater and marine habitats. My research focuses primarily on two top
 
 
 # ------------------ EDUCATION ------------------
-
+  
 ##### The University of Washington | Seattle, WA
 
-  * M.S. in Aquatic and Fishery Science (in progress) | May 2021 - Present
+  * M.S. in Aquatic and Fishery Science | May 2021 - September 2023
 
 ##### Western Washington University | Bellingham, WA
 
@@ -43,7 +43,17 @@ I study freshwater and marine habitats. My research focuses primarily on two top
 
 # ----------------- EXPERIENCE -----------------
 
-##### The University of Washington | Master's student | May 2021 - Present
+##### Anchor QEA | Seattle, WA | Staff 3 fisheries biologist | September 2023 - present
+
+  * Technical science writing, editing
+  
+  * Data analysis, statistical analysis
+  
+  * Study design and reporting
+  
+  * Environmental compliance monitoring, water quality, marine mammal monitoring
+  
+##### The University of Washington | Master's student | May 2021 - September 2023
 
   *	Stable isotope mixing model analysis in R
   
